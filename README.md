@@ -10,7 +10,7 @@ The game also includes some random scenerios by calling the random function, so 
 The game has conditions for winning and losing.
 When the game is over, it asks the player if they want to play again.
 Instructions
-You must have Python installed in your computer in order to play the game. Copy the file Adventure_Game.py (8KB) in your computer, go to the folder where you copied the file and open a terminal window. Type:
+You must have Python installed in your computer in order to play the game. Copy the file Adventure_Game.py  to your python compileron your computer, go to the folder where you copied the file and open a terminal window. Type:
 
 python Adventure_Game.py
 
