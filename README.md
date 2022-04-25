@@ -4,9 +4,9 @@ this is a simple version of an old-fashioned python text-based adventure game. P
 Description
 The  game consist of a couple of choices made  available to the player. This was done on purpose, to keep it simple. for this project, the idea is to focus on some key programming concepts that we need if we want to make a working game:
 
-The game gives players a description of what's happening, and then asks them to make a choice.
+The game gives players a description of various scenerios  and then asks them to make a choice.
 Something different happens depending on the choice the player made.
-The game also includes some random factors, so that it's a little different each time.
+The game also includes some random scenerios by calling the random function, so that it's a little different each time.
 The game has conditions for winning and losing.
 When the game is over, it asks the player if they want to play again.
 Instructions
