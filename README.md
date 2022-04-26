@@ -1,5 +1,5 @@
 # python_adventure_game
-this is a simple version of an old-fashioned python text-based adventure game. Part of the projects for the Intro to Programming Nanodegree (202w) by Udacity.
+this is a simple version of an old-fashioned python text-based adventure game. Part of the projects for the Intro to Programming Nanodegree (2022) by Udacity.
 
 Description
 The  game consist of a couple of choices made  available to the player. This was done on purpose, to keep it simple. for this project, the idea is to focus on some key programming concepts that we need if we want to make a working game:
